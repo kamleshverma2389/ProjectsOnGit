@@ -50,3 +50,5 @@ git push
 #remove git repo from current folder
 rm -rf .git
 
+git clone <repository name>
+
