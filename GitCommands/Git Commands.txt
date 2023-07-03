@@ -1,0 +1,52 @@
+#github Login
+KamleshVerma2389@gmail.com
+vfr45tgb1q@gmail.com
+kamleshverma
+
+#copy of CPP folder for git testing
+C:\Users\khz\Desktop\cpp test
+
+#config
+git config --global user.name "kamleshverma2389"
+git config --global user.email "KamleshVerma2389@gmail.com"
+git config --list
+
+
+
+#repo1
+https://github.com/kamleshverma2389/CPP
+
+#repo2
+https://github.com/kamleshverma2389/cpp-test
+
+
+-------------------------------
+git add --a
+
+git commit -m "git comm"
+
+git push
+
+"C:\Users\khz\AppData\Local\Programs\Opera\launcher.exe" "https://github.com/kamleshverma2389/cpp-test"
+
+pause
+-------------------------------
+
+
+#commands text file
+github.com/kamleshverma2389/cpp-test/blob/master/git commands.txt
+
+#commands
+git status
+git add --a
+git commit -m "initial commit" 
+
+#To get all commits
+git log
+
+#sync to github
+git push
+
+#remove git repo from current folder
+rm -rf .git
+
